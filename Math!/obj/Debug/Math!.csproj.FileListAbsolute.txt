@@ -1,0 +1,7 @@
+\\mi\dfs\Users\LChang\Desktop\Assessment 1\Math!\Math!\bin\Debug\Math!.exe.config
+\\mi\dfs\Users\LChang\Desktop\Assessment 1\Math!\Math!\bin\Debug\Math!.exe
+\\mi\dfs\Users\LChang\Desktop\Assessment 1\Math!\Math!\bin\Debug\Math!.pdb
+\\mi\dfs\Users\LChang\Desktop\Assessment 1\Math!\Math!\obj\Debug\Math!.csprojAssemblyReference.cache
+\\mi\dfs\Users\LChang\Desktop\Assessment 1\Math!\Math!\obj\Debug\Math!.csproj.CoreCompileInputs.cache
+\\mi\dfs\Users\LChang\Desktop\Assessment 1\Math!\Math!\obj\Debug\Math!.exe
+\\mi\dfs\Users\LChang\Desktop\Assessment 1\Math!\Math!\obj\Debug\Math!.pdb
